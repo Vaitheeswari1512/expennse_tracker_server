@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "3f759de8-51b2-49f1-ab1c-ff0e7fb17012"
+      }
+    },
+    "android": {
+      "package": "com.vaitheeswari_2006.expensetrackerroot"
+    }
+  }
+}
